@@ -15,7 +15,7 @@ I am currently studying in Cebu Technological University
 * ✉️  You can contact me at [Olmoguezpatrick5@gmail.com](mailto:Olmoguezpatrick5@gmail.com)
 * 🧠  I'm learning Java script,C
 * 🤝  I'm open to collaborating on something i interested about.
-* ⚡  wannabe coderist
+* ⚡  wannabe
 
 ### Skills
 
