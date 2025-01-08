@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Michael Patrick Olmoguez
 ================================================================================================================================================
-# 🚀 ggg
+# 🚀 you found me>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00E0E5&random=false&width=435&lines=%F0%9F%92%A1+Student.;%E2%9C%A8+BSIT.;%F0%9F%94%A5+Soon to be......" alt="Typing SVG" /></a>
 
@@ -13,8 +13,8 @@ I am currently studying in Cebu Technological University
 
 * 🌍  I'm based in philippines
 * ✉️  You can contact me at [Olmoguezpatrick5@gmail.com](mailto:Olmoguezpatrick5@gmail.com)
-* 🧠  I'm learning Java script,C
-* 🤝  I'm open to collaborating on something i interested about.
+* 🧠  normie
+* 🤝  I'm open to collaborating.
 * ⚡  wannabe
 
 ### Skills
